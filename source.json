@@ -1,0 +1,110 @@
+{
+    "categorias": {
+        "categoria": [
+            {
+                "id_categoria": "1",
+                "nome": "Categoria",
+                "slug": "categoria",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "0",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "2",
+                "nome": "Sub-Categoria",
+                "slug": "subcategoria",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "1",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "3",
+                "nome": "Categoria2",
+                "slug": "categoria2",
+                "categoria_tipo_id": "2",
+                "categoria_pai_id": "0",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "4",
+                "nome": "Categoria3",
+                "slug": "categoria3",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "0",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "5",
+                "nome": "SubCategoria11",
+                "slug": "Subcategoria11",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "1",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "6",
+                "nome": "SubCategoria12",
+                "slug": "Subcategoria12",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "1",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "7",
+                "nome": "SubCategoria13",
+                "slug": "Subcategoria13",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "1",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "8",
+                "nome": "SubCategoria21",
+                "slug": "Subcategoria21",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "2",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "9",
+                "nome": "SubCategoria22",
+                "slug": "Subcategoria22",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "2",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "10",
+                "nome": "SubCategoria23",
+                "slug": "Subcategoria23",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "2",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "11",
+                "nome": "SubCategoria31",
+                "slug": "Subcategoria31",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "3",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "12",
+                "nome": "SubCategoria32",
+                "slug": "Subcategoria32",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "3",
+                "ativo": "true"
+            },
+            {
+                "id_categoria": "13",
+                "nome": "SubCategoria33",
+                "slug": "Subcategoria33",
+                "categoria_tipo_id": "1",
+                "categoria_pai_id": "3",
+                "ativo": "true"
+            }
+        ]
+    }
+}
